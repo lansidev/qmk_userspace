@@ -1,8 +1,8 @@
 #include "simlans.h"
 
 enum layer_number {
-  _QWERTY = 0,
-  //_BONE=0,
+  //_QWERTY = 0,
+  _BONE=0,
   _SYM,
   _SYM_MAC,
   _NAV,
